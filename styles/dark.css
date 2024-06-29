@@ -11,7 +11,8 @@
   */
   --bg-color: #000028;
   --text-color: #f1b2ce;
-  --bg-image: url(/images/cover-image-dark.png);
+  --accent-color: #ff0070;
+  --bg-image: url("../images/cover-image-dark.png");
   --banner-text-color: #db00ff;
   --button-hover-color: #ff007066;
   --button-text-color: #ff0070;
@@ -19,4 +20,5 @@
   --tile-decor-text-color: #000028;
   --section-title-text-color: #ff0070;
   --visibility-hidden: visible;
+  --link-accent-color: #ff0070;
 }

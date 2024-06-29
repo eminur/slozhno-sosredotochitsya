@@ -11,7 +11,7 @@
   */
   --bg-color: #fff1f7;
   --text-color: #353430;
-  --bg-image: url(/images/cover-image-light.png);
+  --bg-image: url("../images/cover-image-light.png");
   --banner-text-color: #ffc2e6;
   --button-hover-color: #32312d66;
   --button-text-color: #353430;
@@ -19,6 +19,7 @@
   --tile-decor-text-color: #353430;
   --section-title-text-color: #353430;
   --visibility-hidden: hidden;
+  --link-accent-color: #ff8dcb;
 }
 
 @media (prefers-color-scheme: light) {
@@ -26,7 +27,7 @@
     /* Дублируем переменные светлой темы */
     --bg-color: #fff1f7;
     --text-color: #353430;
-    --bg-image: url(/images/cover-image-light.png);
+    --bg-image: url("../images/cover-image-light.png");
     --banner-text-color: #ffc2e6;
     --button-hover-color: #32312d66;
     --button-text-color: #353430;
@@ -34,5 +35,6 @@
     --tile-decor-text-color: #353430;
     --section-title-text-color: #353430;
     --visibility-hidden: hidden;
+    --link-accent-color: #ff8dcb;
   }
 }
