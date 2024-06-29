@@ -20,6 +20,7 @@
   --section-title-text-color: #353430;
   --visibility-hidden: hidden;
   --link-accent-color: #ff8dcb;
+  --accent-color: #ff8dcb;
 }
 
 @media (prefers-color-scheme: light) {
@@ -36,5 +37,6 @@
     --section-title-text-color: #353430;
     --visibility-hidden: hidden;
     --link-accent-color: #ff8dcb;
+    --accent-color: #ff8dcb;
   }
 }
